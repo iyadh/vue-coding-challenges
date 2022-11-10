@@ -2,7 +2,7 @@
 
 The goal of this challenge is to consume a given public API to build an interactive interface around it.
 
-We'll go with **Rick and Morty API** and develop a real time character database.
+We'll go with **[Rick and Morty API](https://rickandmortyapi.com)** and develop a real time character database.
 
 
 # Stack
