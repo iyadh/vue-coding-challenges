@@ -41,6 +41,7 @@ When accessing `/view-crypto` route, a user should be able to view a given crypt
 You should manage several uses cases where:
 
  - informration is not available
+ - empty state
  - search query is empty
  - 404
  - etc
