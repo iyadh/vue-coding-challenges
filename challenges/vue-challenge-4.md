@@ -27,12 +27,13 @@ The user should be able to:
 - change currency (USD, EUR, GBP, CAD, BTC, ETH)
 - select a cryptocurrency and view its details
 
-No need to display all data per crypto in this page, only: Thumbnail, Name, Price, Category, Market Cap, Total Volume, Price changein 24h, 7 days price variation chart
+No need to display all data per crypto in this page, only: Thumbnail, Name, Price, Category, Market Cap, Total Volume, Price changein 24h, 7 days price variation chart, and an add/remove favorite.
 
 ### Favorites Page
 When accessing `/favorites` route, a user should be able to see a list of the cryptocurrencies he added to favorites, and can apply the same actions as in main page.
 The user should be able also to remove a cryptocurrency from his fav list.
-No need to display all data per crypto in this page, only: Thumbnail, Name, Price, Category, Market Cap, Total Volume, Price changein 24h, 7 days price variation chart
+No need to display all data per crypto in this page, only: Thumbnail, Name, Price, Category, Market Cap, Total Volume, Price changein 24h, 7 days price variation chart, and an add/remove favorite.
+**Bonus (not mandatory)** Add the ability to rearrange the favorites list.
 
 ### Single Cryptocurrency page
 When accessing `/view-crypto` route, a user should be able to view a given cryptocurrency informations. He sould be able to see if it is added to his favorites or not, add or remove it to favorites and switch between currencies (USD, EUR, GBP, CAD, BTC, ETH) to see the price.
